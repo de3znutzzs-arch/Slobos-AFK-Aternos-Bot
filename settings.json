@@ -1,12 +1,12 @@
 {
-  "name": "AFKBot",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "afkbot_2000",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "chusky.aternos.host:50846",
+    "ip": "ItzZyrQ.aternos.me:50846",
     "port": 50846,
     "version": "1.21.11",
     "try-creative": false
